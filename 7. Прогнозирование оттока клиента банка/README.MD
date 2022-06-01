@@ -12,10 +12,10 @@
 F1-мера на валидационной выборке - 0.64, на тестовой - 0.60, что превосходит требуемое значение.
 
 Также в процессе изучены значения метрики AU-ROC.
-| Model         | F1_balanced   |
-| ------------- | ------------- |
-| DecisionTreeClassifier  | 0.573545  |
-| RandomForestClassifier  | 0.644737  |
+| Model         | F1_balanced   | AUR-ROC_balanced | F1_upscaled |
+| ------------- | ------------- | ------------- | ------------- |
+| DecisionTreeClassifier  | 0.573545  | 0.839652  | 0.573545  |
+| RandomForestClassifier  | 0.644737  | 0.869846  | 0.644737  |
 
 
 
