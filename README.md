@@ -50,3 +50,10 @@ Python, Pandas, Matplotlib, Scikit-learn
 
 **Навыки и инструменты:**\
 Pandas, Matplotlib, Scikit-learn
+
+[8. Определение наиболее выгодного региона нефтедобычи](https://github.com/BlankC3/Portfolio/tree/main/8.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B8%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5%20%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%20%D0%BD%D0%B5%D1%84%D1%82%D0%B5%D0%B4%D0%BE%D0%B1%D1%8B%D1%87%D0%B8)\
+**Цель проекта:**\
+Выбрать регион добычи нефти на основе данных геологической разведки.
+
+**Навыки и инструменты:**\
+Pandas, Scikit-learn, бутстреп
